@@ -1,0 +1,14 @@
+:root {
+    --text-font-serif: serif;
+    --text-font-sans-serif: sans-serif;
+    --text-font-monospace: monospace;
+}
+body.serif {
+    font-family: var(--text-font-serif);
+}
+body.sans-serif {
+    font-family: var(--text-font-sans-serif);
+}
+body.monospace {
+    font-family: var(--text-font-monospace);
+}
